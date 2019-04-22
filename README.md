@@ -1,5 +1,5 @@
-# dp
-
+# dp绍兴大屏最新版第二版02（官方模板）
+线上预览页地址：https://volodya-01.github.io/shaoxingdpnewview02/. 
 > A Vue.js project
 
 ## Build Setup
